@@ -1,0 +1,1 @@
+Tibia API fornece conteúdo sobre o Tibia de forma prática e consistente.
